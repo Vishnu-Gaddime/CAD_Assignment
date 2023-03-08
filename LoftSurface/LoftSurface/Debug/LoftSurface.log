@@ -1,0 +1,9 @@
+﻿  Circle.cpp
+  Eclipse.cpp
+  LoftSurface.cpp
+D:\Studio\CAD_Assignments\LoftSurface\LoftSurface\LoftSurface.cpp(22,21): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+D:\Studio\CAD_Assignments\LoftSurface\LoftSurface\main.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+D:\Studio\CAD_Assignments\LoftSurface\LoftSurface\main.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LoftSurface.vcxproj -> D:\Studio\CAD_Assignments\LoftSurface\Debug\LoftSurface.exe

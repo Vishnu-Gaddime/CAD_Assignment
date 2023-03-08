@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\AAA\ParabolicArc\ParabolicArc\main.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+  ParabolicArc.cpp
+  Point.cpp
+  Generating Code...
+  ParabolicArc.vcxproj -> D:\AAA\ParabolicArc\Debug\ParabolicArc.exe

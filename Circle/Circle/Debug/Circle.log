@@ -1,0 +1,7 @@
+﻿  Circle.cpp
+  main.cpp
+D:\AAA\Circle\Circle\main.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+D:\AAA\Circle\Circle\main.cpp(17,27): warning C4101: 'radiusB': unreferenced local variable
+  Point.cpp
+  Generating Code...
+  Circle.vcxproj -> D:\AAA\Circle\Debug\Circle.exe

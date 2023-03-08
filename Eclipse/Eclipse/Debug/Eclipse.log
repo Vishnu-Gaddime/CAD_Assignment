@@ -1,0 +1,6 @@
+﻿  Eclipse.cpp
+  main.cpp
+D:\AAA\Eclipse\Eclipse\main.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+  Point.cpp
+  Generating Code...
+  Eclipse.vcxproj -> D:\AAA\Eclipse\Debug\Eclipse.exe

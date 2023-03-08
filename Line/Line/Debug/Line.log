@@ -1,0 +1,6 @@
+﻿  Line.cpp
+  main.cpp
+D:\AAA\Line\Line\main.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+  Point.cpp
+  Generating Code...
+  Line.vcxproj -> D:\AAA\Line\Debug\Line.exe
